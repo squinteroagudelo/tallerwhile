@@ -1,0 +1,14 @@
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\contador\bin\Debug\net8.0\contador.exe
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\contador\bin\Debug\net8.0\contador.deps.json
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\contador\bin\Debug\net8.0\contador.runtimeconfig.json
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\contador\bin\Debug\net8.0\contador.dll
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\contador\bin\Debug\net8.0\contador.pdb
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\contador\obj\Debug\net8.0\contador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\contador\obj\Debug\net8.0\contador.AssemblyInfoInputs.cache
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\contador\obj\Debug\net8.0\contador.AssemblyInfo.cs
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\contador\obj\Debug\net8.0\contador.csproj.CoreCompileInputs.cache
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\contador\obj\Debug\net8.0\contador.dll
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\contador\obj\Debug\net8.0\refint\contador.dll
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\contador\obj\Debug\net8.0\contador.pdb
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\contador\obj\Debug\net8.0\contador.genruntimeconfig.cache
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\contador\obj\Debug\net8.0\ref\contador.dll

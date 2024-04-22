@@ -1,0 +1,14 @@
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\paresrango\bin\Debug\net8.0\paresrango.exe
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\paresrango\bin\Debug\net8.0\paresrango.deps.json
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\paresrango\bin\Debug\net8.0\paresrango.runtimeconfig.json
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\paresrango\bin\Debug\net8.0\paresrango.dll
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\paresrango\bin\Debug\net8.0\paresrango.pdb
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\paresrango\obj\Debug\net8.0\paresrango.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\paresrango\obj\Debug\net8.0\paresrango.AssemblyInfoInputs.cache
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\paresrango\obj\Debug\net8.0\paresrango.AssemblyInfo.cs
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\paresrango\obj\Debug\net8.0\paresrango.csproj.CoreCompileInputs.cache
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\paresrango\obj\Debug\net8.0\paresrango.dll
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\paresrango\obj\Debug\net8.0\refint\paresrango.dll
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\paresrango\obj\Debug\net8.0\paresrango.pdb
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\paresrango\obj\Debug\net8.0\paresrango.genruntimeconfig.cache
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\paresrango\obj\Debug\net8.0\ref\paresrango.dll

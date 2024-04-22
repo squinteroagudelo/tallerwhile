@@ -1,0 +1,14 @@
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\contadorpaso\bin\Debug\net8.0\contadorpaso.exe
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\contadorpaso\bin\Debug\net8.0\contadorpaso.deps.json
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\contadorpaso\bin\Debug\net8.0\contadorpaso.runtimeconfig.json
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\contadorpaso\bin\Debug\net8.0\contadorpaso.dll
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\contadorpaso\bin\Debug\net8.0\contadorpaso.pdb
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\contadorpaso\obj\Debug\net8.0\contadorpaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\contadorpaso\obj\Debug\net8.0\contadorpaso.AssemblyInfoInputs.cache
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\contadorpaso\obj\Debug\net8.0\contadorpaso.AssemblyInfo.cs
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\contadorpaso\obj\Debug\net8.0\contadorpaso.csproj.CoreCompileInputs.cache
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\contadorpaso\obj\Debug\net8.0\contadorpaso.dll
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\contadorpaso\obj\Debug\net8.0\refint\contadorpaso.dll
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\contadorpaso\obj\Debug\net8.0\contadorpaso.pdb
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\contadorpaso\obj\Debug\net8.0\contadorpaso.genruntimeconfig.cache
+C:\Users\SAMUEL QUINTERO\RiderProjects\tallerwhile\contadorpaso\obj\Debug\net8.0\ref\contadorpaso.dll
